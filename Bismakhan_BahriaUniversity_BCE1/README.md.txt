@@ -1,7 +1,7 @@
-  {
-      "name": {BISMA KHAN},
+ {
+      "name": {Bisma Khan},
       "batch": {2023},
       "major": {BCE},
       "githubUsername": {BismaKhan13},
-      "favoriteLanguage": {PYTHON}
+      "favoriteLanguage": {python}
     }
